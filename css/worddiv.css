@@ -1,0 +1,15 @@
+*{
+  padding:0;
+  margin:0;
+}
+.worddiv{
+  margin:50px;
+  width:25%;
+  height:114px;
+  
+  margin:0 auto;
+  margin-top:50px;
+  padding:10px;
+  background-color:red;
+}
+

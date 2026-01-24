@@ -5,11 +5,11 @@
 .worddiv{
   margin:50px;
   width:25%;
-  height:114px;
-  
+  height:512px;
+  background-color:white; 
   margin:0 auto;
   margin-top:50px;
   padding:10px;
-  background-color:red;
+  
 }
 

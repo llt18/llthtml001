@@ -1,5 +1,5 @@
 var i = 0;
-var a = ["点我月抛", "本网站由91赞助自制作"];
+var a = ["点我", "本网站由cloudflare赞助制作","编程吗","同城编代码"];
 var strlen = a.length;
 
 
